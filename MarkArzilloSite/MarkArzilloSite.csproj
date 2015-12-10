@@ -222,6 +222,8 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\arzillo-stage - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\arzillo-stage - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\arzillo__PROD.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
